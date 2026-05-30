@@ -1,0 +1,27 @@
+{
+    "architecture": "ResNet18",
+    "class_names": [
+        "NORMAL",
+        "PNEUMONIA"
+    ],
+    "class_to_idx": {
+        "NORMAL": 0,
+        "PNEUMONIA": 1
+    },
+    "input_size": 224,
+    "imagenet_mean": [
+        0.485,
+        0.456,
+        0.406
+    ],
+    "imagenet_std": [
+        0.229,
+        0.224,
+        0.225
+    ],
+    "test_accuracy": 93.63,
+    "test_auc_roc": 0.9682,
+    "best_val_loss": 0.2443,
+    "epochs_trained": 15,
+    "val_set_size": 483
+}
