@@ -198,4 +198,4 @@ This application is intended **strictly for research and educational purposes**.
 
 ---
 
-*Built with ❤️ using Transfer Learning on ResNet18*
+*Built  using Transfer Learning on ResNet18*
